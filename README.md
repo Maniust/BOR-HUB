@@ -146,7 +146,7 @@ These people have all subscribed to the `Bandager` tier on Patreon to support Ba
 
 ---    
 
-#Discord [![Chat](https://img.shields.io/discord/764535564253790239.svg?color=7289DA)](https://discord.gg/YQW34xsM8S)
+# Discord [![Chat](https://img.shields.io/discord/764535564253790239.svg?color=7289DA)](https://discord.gg/YQW34xsM8S)
 
 ---
 
