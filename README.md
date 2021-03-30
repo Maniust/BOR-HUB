@@ -1,4 +1,4 @@
-## BORTCLA [![Discord](https://img.shields.io/badge/Discord-Bortcla-%237289da?&style=flat&logo=Discord&url=https%3A%2F%2Fdiscord.gg%VYdrChWGRc)](https://discord.gg/VYdrChWGRc) [![Youtube](https://img.shields.io/badge/YouTube-Maniust-%23e05d44da?&style=flat&logo=YouTube&logoColor=red&url=https%3A%2F%youtube.com%channel%UCvrK-_fQCcizvkqOzr0xruA)](https://youtube.com/channel/UCvrK-_fQCcizvkqOzr0xruA)
+## BORTCLA [![Discord](https://img.shields.io/badge/Discord-Bortcla-%237289da?&style=flat&logo=Discord?color=7289DA&url=https%3A%2F%2Fdiscord.gg%VYdrChWGRc)](https://discord.gg/VYdrChWGRc) [![Youtube](https://img.shields.io/badge/YouTube-Maniust-%23e05d44da?&style=flat&logo=YouTube&logoColor=red&url=https%3A%2F%youtube.com%channel%UCvrK-_fQCcizvkqOzr0xruA)](https://youtube.com/channel/UCvrK-_fQCcizvkqOzr0xruA)
 [![Discord Chat](https://img.shields.io/discord/764535564253790239.svg?color=blue)](https://discord.gg/YQW34xsM8S)
 The best roblox exploit.
 
