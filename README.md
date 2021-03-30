@@ -22,7 +22,7 @@ The best roblox exploit.
 <table>
 <tr>
 <td align="Maniust">
-    <img src="https://cdn.discordapp.com/avatars/758118707037208657/279878e616cd7089f4d4d6c5b4bddfa0.webp" width="100px;" alt="Maniust">/<br />
+    <img src="https://cdn.discordapp.com/avatars/758118707037208657/279878e616cd7089f4d4d6c5b4bddfa0.webp" width="100px;" alt="Maniust"><br />
     <strong>Maniust</strong><br />
 </td>
 </tr>
