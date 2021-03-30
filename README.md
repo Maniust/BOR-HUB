@@ -25,22 +25,7 @@ The best roblox exploit.
     <img src="https://cdn.discordapp.com/avatars/758118707037208657/279878e616cd7089f4d4d6c5b4bddfa0.webp" width="100px;" alt="Maniust"/<br />
     <strong>Maniust</strong><br />
 </td>
-    </td>
 </tr>
 </table>
 
----    
-
 # Discord [![Chat](https://img.shields.io/discord/764535564253790239.svg?color=7289DA)](https://discord.gg/YQW34xsM8S)
-
----
-
----
-
-**Discord Bot Client** allows you to use your bot, just like any other user account, except Friends and Groups. 
-**No longer Maintained, only security flaws and critical errors**
-
----
-
-![Features](https://s12.directupload.net/images/200907/9m8qldwi.png)
-
