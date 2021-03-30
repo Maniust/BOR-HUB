@@ -3,16 +3,13 @@
 The best roblox exploit.
 
 </div>
-</div></div></div>
-</div>
-</div>
-</div>
-| [Download](https://github.com/Maniust/Bortcla/releases/tag/v0.2.1-alpha) | [Support](https://discord.gg/Axhk9NzZdv)
+
+| [Download](https://github.com/Maniust/Bortcla/releases/tag/v0.2.1-alpha) | [Support](https://discord.gg/Axhk9NzZdv) |
 | :---: | :---: |
 
 </div>
 
-## Frequent questions
+## INFO
 
 - What is this?
 This is a script executor for roblox.
@@ -27,13 +24,38 @@ There are two: [The main server](https://discord.gg/BJD2yvJ), and [the backup](h
 
 
 
-# OWNER Created by [Maniust](https://www.youtube.com/channel/UCvrK-_fQCcizvkqOzr0xruA)
+# Supporters
+These people have all subscribed to the `True Supporter` tier on Patreon to support BandagedBD.
 
 <table>
 <tr>
 <td align="center">
-    <img src="https://cdn.discordapp.com/avatars/758118707037208657/279878e616cd7089f4d4d6c5b4bddfa0.webp" width="100px;" alt="ManiustBCT#3877"/><br />
-    <strong>ManiustBCT#3877</strong><br />
+    <img src="https://cdn.discordapp.com/avatars/196098063092154368/90f1a7202955dac7a6c685cca3181ab1.webp" width="100px;" alt="Kraken"/><br />
+    <strong>Kraken</strong><br />
+</td>
+<td align="center">
+    <img src="https://cdn.discordapp.com/attachments/585514483699417089/585552300354043915/34959069_500_500.jpg" width="100px;" alt="SPHHAX"/><br />
+    <a href="http://sphh.ax/" target="_blank" rel="noreferrer noopener"><strong>SPHHAX</strong></a><br />
+</td>
+<td align="center">
+    <img src="https://cdn.discordapp.com/attachments/622954403262889995/622957122765848587/5364774.jpg" width="100px;" alt="DefCon42"/><br />
+    <a href="https://twitter.com/def_con42" target="_blank" rel="noreferrer noopener"><strong>DefCon42</strong></a><br />
+</td>
+<td align="center">
+    <img src="https://cdn.discordapp.com/avatars/629231564261425163/a_36cc7d2940b4ffb8a660b1076ab2087f.webp" width="100px;" alt="Justxn"/><br />
+    <strong>Justxn</strong><br />
+</td>
+<td align="center">
+    <img src="https://cdn.discordapp.com/attachments/682750073448169513/682763113296429087/definitely_not_the_dick_police.png" width="100px;" alt="monkey"/><br />
+    <a href="https://heartunderbla.de" target="_blank" rel="noreferrer noopener"><strong>monkey</strong></a><br />
+</td>
+<td align="center">
+    <img src="https://avatars3.githubusercontent.com/u/20338746?s=460&u=d9ebab4f6f0f5221390bca1eaf8f191acd275afe&v=4" width="100px;" alt="Gibbu"/><br />
+    <a href="https://github.com/Gibbu" target="_blank" rel="noreferrer noopener"><strong>Gibbu</strong></a>
+</td>
+<td align="center">
+    <img src="https://i.imgur.com/ImS2OCB.png" width="100px;" alt="Orekieh"/><br />
+    <strong>Orekieh</strong>
 </td>
 </tr>
 </table>
