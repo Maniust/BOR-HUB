@@ -1,58 +1,18 @@
-# Bortcla [![Discord](https://img.shields.io/twitter/url?label=Discord&logo=Discord&style=social&url=https%3A%2F%2Fdiscord.gg%VYdrChWGRc)](https://discord.gg/VYdrChWGRc) [![Youtube](https://img.shields.io/twitter/url?label=YouTube&logo=YouTube&style=social&url=https%3A%2F%youtube.com%channel%UCvrK-_fQCcizvkqOzr0xruA?labelColor=red)](https://youtube.com/channel/UCvrK-_fQCcizvkqOzr0xruA)
+### Bortcla [![Discord](https://img.shields.io/twitter/url?label=Discord&logo=Discord&style=social&url=https%3A%2F%2Fdiscord.gg%VYdrChWGRc)](https://discord.gg/VYdrChWGRc) [![Youtube](https://img.shields.io/twitter/url?label=YouTube&logo=YouTube&style=social&url=https%3A%2F%youtube.com%channel%UCvrK-_fQCcizvkqOzr0xruA?labelColor=red)](https://youtube.com/channel/UCvrK-_fQCcizvkqOzr0xruA)
 
-The best desktopService
+The best roblox exploit.
 
+</div>
 
+| [Download](https://github.com/Maniust/Bortcla/releases/tag/v0.2.1-alpha) | [Support](https://discord.gg/Axhk9NzZdv) |
+| :---: | :---: |
 
+</div>
 
+## INFO
 
-
-# Bortcla [![Patreon][patreon-badge]][patreon-link] [![Paypal][paypal-badge]][paypal-link]
-[patreon-badge]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2FZerebos&style=flat-square
-[patreon-link]: https://patreon.com/Zerebos
-
-[paypal-badge]: https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square
-[paypal-link]: https://paypal.me/ZackRauen
-
-BandagedBD (Bandaged BetterDiscord) is a fork of the original [BetterDiscord](https://github.com/Jiiks/BetterDiscordApp) by Jiiks. This has a number of improvements over the original. The original version has been unmaintained hence this fork existing. There have been attempts to rewrite the original that I have been and will continue to be involved in, but in the meantime I will continue to maintain and improve BBD.
-
-# Installation
-
-## Auto Installers
-
-### Windows
-Grab the `exe` file from [here](https://github.com/rauenzi/BBDInstaller/releases/latest/download/BandagedBD.exe).
-
-### macOS/OS X
-Grab the `zip` file from [here](https://github.com/rauenzi/BBDInstaller/releases/latest/download/BandagedBD_Mac.zip).
-
-### Linux
-See this [gist](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172).
-
-## Manual Installation
-
-### Windows
-1. Download and extract this: https://github.com/rauenzi/BetterDiscordApp/archive/injector.zip
-2. Rename `BetterDiscordApp-injector` to `app`.
-3. Go to `%localappdata%\Discord\`, and locate the directory with the largest version number (e.g. `app-0.0.306`).
-4. Within `app-0.0.306` navigate to `resources`.
-5. If an `app` folder already exists inside `resources`, delete it.
-6. Move the `app` folder (the one you downloaded and renamed) inside of `resources`.
-7. Fully quit Discord and restart it.
-
-### macOS/OS X
-1. Download and extract this: https://github.com/rauenzi/BetterDiscordApp/archive/injector.zip
-2. Rename `BetterDiscordApp-injector` to `app`.
-3. Go to `/Applications/`, right click `Discord.app` and select `Show Package Contents`.
-4. Within `Discord.app` navigate to `Contents` -> `Resources`.
-5. If an `app` folder already exists inside `Resources`, delete it.
-6. Move the `app` folder (the one you downloaded and renamed) inside of `Resources`.
-7. Fully quit Discord and restart it.
-
-# FAQ
-
-### What is this?
-This is a client modification for Discord. It allows you to add plugins and themes to your client. Plugins can add functionality and useful features. Themes can completely change the look and feel of Discord.
+- What is this?
+This is a script executor for roblox.
 
 BBD has some other built-in features such as Emotes from Twitch, FFZ, and BBTV, as well as an in-client server browser.
 
