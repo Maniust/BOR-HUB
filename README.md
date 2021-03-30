@@ -94,8 +94,7 @@ These people have all subscribed to the `Bandager` tier on Patreon to support Ba
 </tr>
 </table>
 
-# Donors
-These people have either donated or subscribed to the most basic patron tier to support me.
+---
 
 <table>
 <tr>
@@ -146,21 +145,12 @@ These people have either donated or subscribed to the most basic patron tier to 
 </tr>
 </table>
 
-
-
-
-![BOT CLIENT](https://s12.directupload.net/images/200907/zcpxtyxp.png)
-
-<div>
-  <p>
-    <a href="https://www.patreon.com/flam3rboy" data-patreon-widget-type="become-patron-button"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="85"></a>
-  </p>
-    
+---    
 
 | [Download](https://github.com/Flam3rboy/discord-bot-client/releases/tag/3.1.0) | [FAQ](https://github.com/Flam3rboy/discord-bot-client/blob/master/FAQ.md) | [Tutorial](https://www.youtube.com/watch?v=AmKBFzJOMpY) |
 | :---: | :---: | :---: |
 
-</div>
+---
 
 ---
 
@@ -168,6 +158,7 @@ These people have either donated or subscribed to the most basic patron tier to 
 **No longer Maintained, only security flaws and critical errors**
 
 ---
+
 ![Features](https://s12.directupload.net/images/200907/9m8qldwi.png)
 - **View Guilds** *(Lazy load them)*
 - **Manage Guilds** (Name, Image, Audit log, Emoji, Webhooks, Invites, Bans, Widget, Moderation, Roles)
