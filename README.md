@@ -8,7 +8,7 @@ The best roblox exploit
 
 
 
-# BandagedBD [![Patreon][patreon-badge]][patreon-link] [![Paypal][paypal-badge]][paypal-link]
+# Bortcla [![Patreon][patreon-badge]][patreon-link] [![Paypal][paypal-badge]][paypal-link]
 [patreon-badge]: https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.herokuapp.com%2FZerebos&style=flat-square
 [patreon-link]: https://patreon.com/Zerebos
 
