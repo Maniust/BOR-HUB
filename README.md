@@ -24,8 +24,7 @@ There are two: [The main server](https://discord.gg/BJD2yvJ), and [the backup](h
 
 
 
-# OWNER
-These people have all subscribed to the `True Supporter` tier on Patreon to support BandagedBD.
+# OWNER Created by [Maniust](https://www.youtube.com/channel/UCvrK-_fQCcizvkqOzr0xruA)
 
 <table>
 <tr>
