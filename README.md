@@ -11,11 +11,11 @@ The best roblox exploit.
 
 ### Features
 
-# - Run almost all scripts
-# - No key system
-# - It's free
-# - Fast injection
-# - Safe
+- Run almost all scripts
+- No key system
+- It's free
+- Fast injection
+- Safe
 
 # Creator: ManiustBCT#3877
 
