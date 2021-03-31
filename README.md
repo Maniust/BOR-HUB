@@ -2,12 +2,10 @@
 
 The best roblox exploit.
 
-</div>
-
 | [Download](https://github.com/Maniust/Bortcla/releases/tag/v0.2.1-alpha) | [Support](https://discord.gg/Axhk9NzZdv) |
 | :---: | :---: |
 
-</div>
+[![GitHub Release](https://img.shields.io/github/release/Maniust/Bortcla.svg?style=flat)]()  
 
 ### Features
 
