@@ -5,8 +5,6 @@ The best roblox script
 | [Download](https://github.com/Maniust/Bortcla/releases/tag/v0.2.1-alpha) | [Support](https://discord.gg/Axhk9NzZdv) |
 | :---: | :---: | 
 
-[![GitHub Release](https://img.shields.io/github/release/Maniust/Bortcla.svg?style=flat)](https://github.com/Maniust/Bortcla/releases)
-
 ### Features
 
 - Run on all exploits
